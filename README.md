@@ -2,9 +2,12 @@
 Technologies Used
 The Drum Kit Website utilizes the following technologies:
 
-HTML: Provides the structure and layout of the webpages.
+HTML: Provides the structure and layout of the web pages.
+
 CSS: Handles the styling and appearance of the website, ensuring an appealing user interface.
+
 JavaScript: Enables the interactivity and functionality of the drum kit, capturing user input and producing sound.
+
 Usage
 To use the Drum Kit Website, simply open the website link in your web browser. Upon loading the page, you will see the drum pads displayed on the screen. To play the drums, either click on the drum pads using your mouse or press the corresponding keys on your keyboard. Experiment with different combinations of drum sounds to create your own beats!
 
